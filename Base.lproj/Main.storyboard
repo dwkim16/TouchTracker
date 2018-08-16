@@ -24,7 +24,7 @@
                                 <color key="value" red="0.0" green="0.089569002587565491" blue="0.18569559010152281" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </userDefinedRuntimeAttribute>
                             <userDefinedRuntimeAttribute type="color" keyPath="currentLineColor">
-                                <color key="value" red="0.18963602464300189" green="0.95598191948697486" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="value" red="1" green="0.4206420347855" blue="0.12498217102370668" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </userDefinedRuntimeAttribute>
                         </userDefinedRuntimeAttributes>
                     </view>
